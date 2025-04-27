@@ -21,5 +21,5 @@ This is a Python-based SMS bombing tool that uses multithreading (10 threads) to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sms-bomber.git
+   git clone https://github.com/Joybrobd/Testbomber
    cd sms-bomber
